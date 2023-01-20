@@ -1,5 +1,4 @@
 import openai
-import os
 from aiogram import Bot, Dispatcher, executor, types
 from config import OPENAI_API_KEY, TOKEN
 
